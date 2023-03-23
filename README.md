@@ -1,6 +1,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-sifedine/)
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=${isifeddi}.${isifeddi}&left_color=black&right_color=red)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
