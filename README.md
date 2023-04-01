@@ -1,9 +1,10 @@
 
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://isifeddine.me/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilyas-sifedine/)
 
 ## Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Hi there! I'm a Full Stack Developer with a focus on JavaScript and its ecosystem. Passionate about building high-quality, interactive web applications. With over three years of experience in the field, I have a strong understanding of modern web development practices and a passion for continuously learning and growing as a developer.
+### I'm [Ilyas SIFEDDINE](https://isifeddine.me) a Full Stack Developer with a focus on JavaScript and its ecosystem. Passionate about building high-quality, interactive web applications. With over three years of experience in the field, I have a strong understanding of modern web development practices and a passion for continuously learning and growing as a developer.
 
 ### Feel free to take a look at my projects and if you want to get in touch, don't hesitate to reach out!
 
