@@ -12,12 +12,6 @@ Feel free to take a look at my projects and if you want to get in touch, don't h
 
 
 <details>	
-  <summary><b>42 Profile card</summary>
-
-  <br />
-<img src="https://badge.mediaplus.ma/greenbinary/isifeddi" alt="isifeddi's 42 stats" />
-</details>
-<details>	
   <summary><b>Github profile stats</b></summary>
   <br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isifeddi&theme=2077" />
