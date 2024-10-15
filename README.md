@@ -1,11 +1,10 @@
 
-<a href="https://isifeddine.me/" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" alt="Website Badge"></a>
 <a href="https://www.linkedin.com/in/ilyas-sifeddine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a>
 
 
 <p>Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
-<p>I'm <a href="https://isifeddine.me/" target="_blank">Ilyas SIFEDDINE</a> a Full Stack Developer with a focus on JavaScript and its ecosystem. Passionate about building high-quality, interactive web applications. With over three years of experience in the field, I have a strong understanding of modern web development practices and a passion for continuously learning and growing as a developer.<p>
+<p>I'm Ilyas SIFEDDINE a Full Stack Developer with a focus on JavaScript and its ecosystem. Passionate about building high-quality, interactive web applications. With over three years of experience in the field, I have a strong understanding of modern web development practices and a passion for continuously learning and growing as a developer.<p>
 
 Feel free to take a look at my projects and if you want to get in touch, don't hesitate to reach out.
 
