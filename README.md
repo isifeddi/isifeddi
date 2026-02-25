@@ -4,7 +4,7 @@
 
 <p>Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
-<p>I'm Ilyas SIFEDDINE a Full Stack Developer with a focus on JavaScript and its ecosystem. Passionate about building high-quality, interactive web applications. With over three years of experience in the field, I have a strong understanding of modern web development practices and a passion for continuously learning and growing as a developer.<p>
+<p>I'm Ilyas SIFEDDINE a Full Stack Developer with a focus on JavaScript and its ecosystem. Passionate about building high-quality, interactive web applications. With over 5 years of experience in the field, I have a strong understanding of modern web development practices and a passion for continuously learning and growing as a developer.<p>
 
 Feel free to take a look at my projects and if you want to get in touch, don't hesitate to reach out.
 
